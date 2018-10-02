@@ -1,13 +1,11 @@
-# Article Knowledgebase Application
-
-This is a knowledgebase app used in the "Node.js & Express From Scratch" Youtube series.
+# Jop Poratal nodejs Application
 
 ## Technologies
 * Node.js
 * Express
 * Express Messages, Session, Connect Flash & Validation
 * MongoDB & Mongoose
-* Pug Templating
+* Ejs templating
 * Passport.js Authentication
 * BCrypt Hashing
 
